@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Saad
-- 👀 I’m interested in Artificial Intelligence and Machine learning as well as Finte element analysis
+- 👀 I’m interested in Artificial Intelligence and Machine learning as well as Finte element analysis and comoputational fluid dynamics 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 reach me @ mohammed.saadsalik@gmail.com
